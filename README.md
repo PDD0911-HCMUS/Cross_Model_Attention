@@ -9,4 +9,4 @@
 ### To Do:
 * **Setup the Librabry:** first of all, you need to install all in the file ```requirements.txt```.
 * **Training**: the python code for training will be in ```train_att_kg.py```.
-* **Testing**: the python code for training will be in ```testAtt.ipynb``` r. Can load the weight from the zip file after extract to run testing emediately 
+* **Testing**: the python code for training will be in ```testAtt.ipynb```. Can load the weight from the zip file after extract to run testing emediately 
